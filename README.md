@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **PyTorch**
 
-- 📫 How to reach me **https://www.linkedin.com/in/sarah-swinton/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saraheswinton" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="saraheswinton" height="30" width="40" /></a>
