@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sarah Swinton</h1>
 <h3 align="center">MEng Aerospace Systems Engineering student @ University of Glasgow</h3>
 
-- 🔭 I’m currently working on **Fault Tolerant Coordination of Multiple Rovers For Planetary Exploration**
+- 🔭 I’m currently working on **Box of Hope**
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
