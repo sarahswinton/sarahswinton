@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarah Swinton</h1>
 <h3 align="center">PhD Researcher @ University of Glasgow</h3>
 
-- 🔭 I’m currently working on **Multi-Rover RRT**
+- 🔭 I’m currently working on **Rocker-Bogie Rover Simulations**
 
 
 
